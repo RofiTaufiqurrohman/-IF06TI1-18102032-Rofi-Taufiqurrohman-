@@ -2,4 +2,102 @@
     <string name="app_name">praktikum6</string>
     <string name="name">Name</string>
     <string name="description">Deskripsi</string>
+    <string name="tampil_list">Tampilkan</string>
+    <string name="tampil_grid">Tampil Grid</string>
+    <string name="tampil_card_view">Tampil Card View</string>
+    <string name="todo">TODO</string>
+    <string-array name="data_name">
+        <item>Wisata Pagubugan</item>
+        <item>The Village Purwokerto</item>
+        <item>Jatim Park</item>
+        <item>Museum Angkut</item>
+        <item>Kota Lama</item>
+        <item>Lawang Sewu</item>
+        <item>Keraton Surakarta Hadiningrat</item>
+        <item>Punthuk Setumbu</item>
+        <item>Daratan Tinggi Dieng </item>
+        <item>Taman Nasional Karimun Jawa</item>
+    </string-array> <string-array name="data_description">
+ <item>Berada di lereng Gunung Slamet, wisata Pagubugan akan membawa Anda merasakan betapa
+tenang dan nyamannya berada di tengah persawahan dan bermain air di sungai. Eduwisata yang berada
+di Desa Melung ini memiliki berbagai spot wisata menarik yang akan memanjakan Anda. Mulai dari trek
+jogging, outbond, camping ground, sawah pelangi, taman kelinci, berbagai spot foto keren dan juga
+Grujugan Bengkok.Di Grujugan Bengkok ini Anda bisa mandi sepuasnya dan airnya sangat jernih, lho!
+Selain itu lintasan grujugan ini juga panjang, melewati persawahan dan tidak dalam, sehingga aman buat
+si kecil. Selain itu ada juga wisata bercocok tanam bagi anak paud, TK maupun SD yang berkunjung. Dan
+yang terbaru ada kolam renang di tengah persawahan yang aman untuk anak-anak.</item>
+
+    <item>Berlokasi tak terlalu jauh dengan pusat kota Purwokerto, The Village hadir dengan gaya unik
+khas perkampungan Eropa. Bangunan tinggi besar menyerupai kastil dengan dinding bata langsung
+mencuri perhatian begitu melangkahkan kaki ke sini. Ada beragam aktivitas yang bisa Anda lakukan di
+sini: naik perahu mengitari kanal buatan di sekitar taman rekreasi, memberi makan aneka binatang
+(burung, kelinci, sapi, domba), menunggang kuda, foto-foto dengan kostum Belanda, dan masih banyak
+lagi!</item>
+
+    <item>sebuah tempat rekreasi dan taman belajar yang terdapat di Kota Batu, Jawa Timur. Objek wisata
+    ini berada sekitar 20 km barat Kota Malang, dan kini menjadi salah satu icon wisata Jawa Timur.
+    Objek wisata ini memiliki 36 wahana, di antaranya kolam renang raksasa (dengan latar belakang patung
+    Ken Dedes, Ken Arok, dan Mpu Gandring), spinning coaster, dan drop zone. Wahana pendidikan yang menjadi
+    pusat perhatian di antaranya adalah Volcano dan Galeri Nusantara yang juga terdapat tanaman agro,
+    diorama binatang langka, dan miniatur candi-candi. Jatim Park 1 beralamat di Jalan Kartika no. 2,
+    yang berdekatan dengan Klub Bunga.</item>
+
+    <item>museum transportasi dan tempat wisata modern yang terletak di Kota Batu, Jawa Timur,
+    sekitar 20 km dari Kota Malang. Museum ini terletak di kawasan seluas 3,8 hektar di lereng Gunung Panderman
+    dan memiliki lebih dari 300 koleksi jenis angkutan tradisional hingga modern. Museum ini terbagi dalam
+    beberapa zona yang didekorasi dengan setting landscape model bangunan dari benua Asia, Eropa hingga Amerika.
+    Di Zona Sunda Kelapa dan Batavia yang merupakan Replika Pelabuhan Sunda Kelapa, dihiasi oleh beberapa alat
+    transportasi kuno seperti becak dan miniatur kapal. Zona Eropa juga di setting seakan-akan berada di jalanan
+    kota-kota di Prancis dengan mobil-mobil kuno eropa.</item>
+
+    <item>suatu kawasan di Semarang yang menjadi pusat perdagangan pada abad 19-20 . Pada masa itu, untuk mengamankan warga
+    dan wilayahnya, kawasan itu dibangun benteng, yang dinamai benteng Vijhoek. Untuk mempercepat jalur perhubungan
+    antar ketiga pintu gerbang dibenteng itu maka dibuat jalan-jalan perhubungan, dengan jalan utamanya
+    dinamai: Heeren Straat. Saat ini bernama Jl. Let Jen Soeprapto. Salah satu lokasi pintu benteng yang ada
+    sampai saat ini adalah Jembatan Berok, yang disebut De Zuider Por.</item>
+
+    <item>gedung bersejarah di Indonesia yang berlokasi di Kota Semarang, Jawa Tengah. Gedung ini, dahulu yang merupakan kantor dari
+    Nederlands-Indische Spoorweg Maatschappij atau NIS. Dibangun pada tahun 1904 dan selesai pada tahun 1907. Terletak
+    di bundaran Tugu Muda yang dahulu disebut Wilhelminaplein. Masyarakat setempat menyebutnya Lawang Sewu karena bangunan
+    tersebut memiliki pintu yang sangat banyak, meskipun kenyataannya, jumlah pintunya tidak mencapai seribu. Bangunan ini
+    memiliki banyak jendela yang tinggi dan lebar, sehingga masyarakat sering menganggapnya sebagai pintu (lawang).</item>
+
+    <item>Istana resmi Kasunanan Surakarta yang terletak di Kota Surakarta, Jawa Tengah. Keraton ini didirikan oleh Susuhunan
+    Pakubuwana II pada tahun 1744 sebagai pengganti Istana/Keraton Kartasura yang porak-poranda akibat Geger Pecinan pada tahun1743.
+    Walaupun Kasunanan Surakarta Hadinigrat tersebut secara resmi telah menjadi bagian Negara Republik Indonesia sejak tahun 1945,
+    kompleks bangunan keraton ini masih berfungsi sebagai tempat tinggal Sri Sunan dan rumah tangga istananya yang masih menjalankan
+    tradisi kerajaan hingga saat ini. Keraton ini kini juga merupakan salah satu objek wisata utama di Kota Surakarta. Sebagian
+    kompleks keraton merupakan museum yang menyimpan berbagai koleksi milik kasunanan, termasuk berbagai pemberian dari raja-raja
+    Eropa, replika pusaka keraton, dan gamelan. Dari segi bangunannya, keraton ini merupakan contoh arsitektur istana Jawa
+    tradisional yang terbaik.</item>
+
+    <item>salah satu spot terbaik untuk menyaksikan sunrise dengan latar Gunung Merapi Merbabu. Dari tempat ini wisatawan juga
+    bisa melihat megahnya Candi Borobudur di pagi hari yang terkurung lautan kabut. Eksotisme pemandangan mentari yang terbit di
+    pagi hari selalu menjadi magnet yang memukau bagi para wisatawan. Karena itu tak heran jika tempat-tempat wisata yang menyajikan
+    pemandangan sunrise selalu ramai dikunjungi wisatawan. Sebut saja Gunung Bromo di Jawa Timur, Bukit Sikunir di Dieng Jawa Tengah,
+    dan Bukit Punthuk Setumbu di Magelang.</item>
+
+    <item>kawasan di pusat Jawa Tengah, yang memiliki ciri geologi, sejarah, dan pertanian yang khas. Dataran ini diapit oleh jajaran
+    perbukitan di sisi utara dan selatannya, yang berasal dari aktivitas vulkanik yang sama dan disebut Pegunungan Dieng. Pegunungan Dieng
+    sendiri secara geografis berada di antara kompleks Puncak Rogojembangan di sebelah barat dan pasangan Gunung Sindoro dan Gunung
+    Sumbing di sisi timurnya. Secara kasar dapat dikatakan bahwa wilayah Dataran Tinggi Dieng (DT Dieng) menempati kawasan berukuran
+    lebar (utara–selatan) 4-6 km dan panjang (barat–timur) 11 km.</item>
+
+    <item>Salah satu taman nasional yang masuk ke dalam wilayah administratif Kabupaten Jepara, Jawa Tengah. Sebagian besar kawasan
+    konservasi ini terdiri atas perairan dan sebagian kecil daratan yang terdiri atas gugusan pulau-pulau. Sesuai dengan kondisi
+    alamnya, jenis keanekaragaan yang dapat dijumpai di taman nasional ini juga kebanyakan dapat ditemukan di wilayah perairan.
+    Hal ini juga menyebabkan jumlah flora dan fauna yang hidup di daratan juga tidak terlalu banyak. Namun dapat dikatan jenis
+    flora di kawasan ini sebagian adalah spesies langka yang sudah hampir punah.</item>
+</string-array> <string-array name="data_photo">
+ <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2019/09/18-1-by-@miftakhulmukhasin-@hengki_pamungkas-740x294.jpg</item>
+    <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2019/09/21-2-by-@The-Village-Purwokerto-740x740.jpg</item>
+    <item>https://gatra.cloud/foldershared/images/2019/anton/10-Oct/64.jpg</item>
+    <item>https://www.intiwhiz.com/images/planner/MUSEUM%20ANGKUT.jpg</item>
+    <item>https://primaberita.com/wp-content/uploads/2020/01/kota-lama-semarang.jpg</item>
+    <item>https://heritage.kai.id/media/cover%2013.jpg?1505617606123</item>
+    <item>https://bob.kemenpar.go.id/wp-content/uploads/2019/10/keraton-kasunanan-surakarta.jpg</item>
+    <item>https://explorewisata.com/wp-content/uploads/2017/12/punthuk-setumbu.jpg</item>
+    <item>https://ladypinem.com/wp-content/uploads/Alam-Dataran-Tinggi-Dieng-Telaga-Warna-1.jpg</item>
+    <item>https://rimbakita.com/wp-content/uploads/2019/08/taman-nasional-karimunjawa.jpg</item>
+</string-array>
 </resources>
