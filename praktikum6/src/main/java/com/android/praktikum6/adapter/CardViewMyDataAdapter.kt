@@ -1,5 +1,7 @@
 package com.android.praktikum6.adapter
 
+import android.content.Context
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -8,13 +10,13 @@ import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
+import com.android.praktikum6.DetailActivity
 import com.android.praktikum6.MyData
 import com.android.praktikum6.R
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 
-class CardViewMyDataAdapter(private val listMyDatas: ArrayList<MyData>) :
-    RecyclerView.Adapter<CardViewMyDataAdapter.CardViewViewHolder>() {
+class CardViewMyDataAdapter(private val listMyDatas: ArrayList<MyData>,val context: Context) : RecyclerView.Adapter<CardViewMyDataAdapter.CardViewViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CardViewViewHolder {
         val view: View = LayoutInflater.from(parent.context).inflate(R.layout.item_cardview, parent, false)
         return CardViewViewHolder(view)
@@ -31,8 +33,11 @@ class CardViewMyDataAdapter(private val listMyDatas: ArrayList<MyData>) :
                 listMyDatas[holder.adapterPosition].name, Toast.LENGTH_SHORT).show() }
         holder.btnShare.setOnClickListener { Toast.makeText(holder.itemView.context, "Share " +
                 listMyDatas[holder.adapterPosition].name, Toast.LENGTH_SHORT).show() }
-        holder.itemView.setOnClickListener { Toast.makeText(holder.itemView.context, "Kamu memilih " +
-                listMyDatas[holder.adapterPosition].name, Toast.LENGTH_SHORT).show() }
+        holder.itemView.setOnClickListener {
+                val moveWithObjectIntent = Intent(context, DetailActivity::class.java)
+                moveWithObjectIntent.putExtra(DetailActivity.EXTRA_MYDATA, myData)
+                context.startActivity(moveWithObjectIntent)
+            }
     }
     override fun getItemCount(): Int {
         return listMyDatas.size
@@ -43,5 +48,6 @@ class CardViewMyDataAdapter(private val listMyDatas: ArrayList<MyData>) :
         var tvDetail: TextView = itemView.findViewById(R.id.tv_item_detail)
         var btnFavorite: Button = itemView.findViewById(R.id.btn_set_favorite)
         var btnShare: Button = itemView.findViewById(R.id.btn_set_share)
+
     }
 }
