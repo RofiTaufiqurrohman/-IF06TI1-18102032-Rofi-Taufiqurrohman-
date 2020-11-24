@@ -105,10 +105,27 @@ lagi!</item>
     <string-array name="data_lat">
         <item>-7.333797</item>
         <item>-7.374473</item>
+        <item>-7.785680187341404</item>
+        <item>-7.878368860299753</item>
+        <item>-6.96784170634687</item>
+        <item>-6.983645704342558</item>
+        <item>-7.577520423326818</item>
+        <item>-7.608558374822703</item>
+        <item>-7.2142554278201665</item>
+        <item>-5.848357236836248</item>
     </string-array>
     <string-array name="data_lang">
         <item>109.206959</item>
         <item>109.240532</item>
+        <item>112.09776720926665</item>
+        <item>112.51978862611153</item>
+        <item>110.42787182610608</item>
+        <item>110.41076950103631</item>
+        <item>110.82748028120241</item>
+        <item>110.17812349654812</item>
+        <item>109.89957597665186</item>
+        <item>110.43957764242408</item>
+
     </string-array>
     <string name="title_activity_detail">ScrollingActivity</string>
     <string name="large_text">
