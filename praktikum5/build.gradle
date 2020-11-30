@@ -3,11 +3,19 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
 android {
+    signingConfigs {
+        praktikum5 {
+            storeFile file('C:\\Users\\ACER\\AndroidStudioProjects\\HelloITTelkomPurwokerto\\app\\praktikum_5.jks')
+            storePassword 'android'
+            keyAlias 'praktikum5'
+            keyPassword 'android'
+        }
+    }
     compileSdkVersion 30
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.android.lifecycleapp"
+        applicationId "com.android.praktikum5"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
@@ -30,6 +38,7 @@ dependencies {
     implementation 'androidx.core:core-ktx:1.3.2'
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     testImplementation 'junit:junit:4.13.1'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
