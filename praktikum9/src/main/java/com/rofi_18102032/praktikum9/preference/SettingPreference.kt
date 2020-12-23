@@ -3,7 +3,7 @@ package com.rofi_18102032.praktikum9.preference
 import android.content.Context
 import com.rofi_18102032.praktikum9.data.SettingModel
 
-class SettingPreference {
+
     internal class SettingPreference(context: Context) {
         companion object {
             private const val PREFS_NAME = "setting_pref"
@@ -32,4 +32,4 @@ class SettingPreference {
             model.isDarkTheme = preferences.getBoolean(THEME, false)
             return model
         } }
- }
+
