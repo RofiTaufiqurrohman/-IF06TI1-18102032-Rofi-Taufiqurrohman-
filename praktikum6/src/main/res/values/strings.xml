@@ -1,0 +1,222 @@
+<resources>
+    <string name="app_name">praktikum6</string>
+    <string name="name">Name</string>
+    <string name="description">Deskripsi</string>
+    <string name="tampil_list">Tampilkan</string>
+    <string name="tampil_grid">Tampil Grid</string>
+    <string name="tampil_card_view">Tampil Card View</string>
+    <string name="todo">TODO</string>
+    <string-array name="data_name">
+        <item>Wisata Pagubugan</item>
+        <item>The Village Purwokerto</item>
+        <item>Jatim Park</item>
+        <item>Museum Angkut</item>
+        <item>Kota Lama</item>
+        <item>Lawang Sewu</item>
+        <item>Keraton Surakarta Hadiningrat</item>
+        <item>Punthuk Setumbu</item>
+        <item>Daratan Tinggi Dieng </item>
+        <item>Taman Nasional Karimun Jawa</item>
+    </string-array>
+    <string-array name="data_description">
+ <item>Berada di lereng Gunung Slamet, wisata Pagubugan akan membawa Anda merasakan betapa
+tenang dan nyamannya berada di tengah persawahan dan bermain air di sungai. Eduwisata yang berada
+di Desa Melung ini memiliki berbagai spot wisata menarik yang akan memanjakan Anda. Mulai dari trek
+jogging, outbond, camping ground, sawah pelangi, taman kelinci, berbagai spot foto keren dan juga
+Grujugan Bengkok.Di Grujugan Bengkok ini Anda bisa mandi sepuasnya dan airnya sangat jernih, lho!
+Selain itu lintasan grujugan ini juga panjang, melewati persawahan dan tidak dalam, sehingga aman buat
+si kecil. Selain itu ada juga wisata bercocok tanam bagi anak paud, TK maupun SD yang berkunjung. Dan
+yang terbaru ada kolam renang di tengah persawahan yang aman untuk anak-anak.</item>
+
+        <item>Berlokasi tak terlalu jauh dengan pusat kota Purwokerto, The Village hadir dengan gaya unik
+khas perkampungan Eropa. Bangunan tinggi besar menyerupai kastil dengan dinding bata langsung
+mencuri perhatian begitu melangkahkan kaki ke sini. Ada beragam aktivitas yang bisa Anda lakukan di
+sini: naik perahu mengitari kanal buatan di sekitar taman rekreasi, memberi makan aneka binatang
+(burung, kelinci, sapi, domba), menunggang kuda, foto-foto dengan kostum Belanda, dan masih banyak
+lagi!</item>
+
+        <item>sebuah tempat rekreasi dan taman belajar yang terdapat di Kota Batu, Jawa Timur. Objek wisata
+    ini berada sekitar 20 km barat Kota Malang, dan kini menjadi salah satu icon wisata Jawa Timur.
+    Objek wisata ini memiliki 36 wahana, di antaranya kolam renang raksasa (dengan latar belakang patung
+    Ken Dedes, Ken Arok, dan Mpu Gandring), spinning coaster, dan drop zone. Wahana pendidikan yang menjadi
+    pusat perhatian di antaranya adalah Volcano dan Galeri Nusantara yang juga terdapat tanaman agro,
+    diorama binatang langka, dan miniatur candi-candi. Jatim Park 1 beralamat di Jalan Kartika no. 2,
+    yang berdekatan dengan Klub Bunga.</item>
+
+        <item>museum transportasi dan tempat wisata modern yang terletak di Kota Batu, Jawa Timur,
+    sekitar 20 km dari Kota Malang. Museum ini terletak di kawasan seluas 3,8 hektar di lereng Gunung Panderman
+    dan memiliki lebih dari 300 koleksi jenis angkutan tradisional hingga modern. Museum ini terbagi dalam
+    beberapa zona yang didekorasi dengan setting landscape model bangunan dari benua Asia, Eropa hingga Amerika.
+    Di Zona Sunda Kelapa dan Batavia yang merupakan Replika Pelabuhan Sunda Kelapa, dihiasi oleh beberapa alat
+    transportasi kuno seperti becak dan miniatur kapal. Zona Eropa juga di setting seakan-akan berada di jalanan
+    kota-kota di Prancis dengan mobil-mobil kuno eropa.</item>
+
+        <item>suatu kawasan di Semarang yang menjadi pusat perdagangan pada abad 19-20 . Pada masa itu, untuk mengamankan warga
+    dan wilayahnya, kawasan itu dibangun benteng, yang dinamai benteng Vijhoek. Untuk mempercepat jalur perhubungan
+    antar ketiga pintu gerbang dibenteng itu maka dibuat jalan-jalan perhubungan, dengan jalan utamanya
+    dinamai: Heeren Straat. Saat ini bernama Jl. Let Jen Soeprapto. Salah satu lokasi pintu benteng yang ada
+    sampai saat ini adalah Jembatan Berok, yang disebut De Zuider Por.</item>
+
+        <item>gedung bersejarah di Indonesia yang berlokasi di Kota Semarang, Jawa Tengah. Gedung ini, dahulu yang merupakan kantor dari
+    Nederlands-Indische Spoorweg Maatschappij atau NIS. Dibangun pada tahun 1904 dan selesai pada tahun 1907. Terletak
+    di bundaran Tugu Muda yang dahulu disebut Wilhelminaplein. Masyarakat setempat menyebutnya Lawang Sewu karena bangunan
+    tersebut memiliki pintu yang sangat banyak, meskipun kenyataannya, jumlah pintunya tidak mencapai seribu. Bangunan ini
+    memiliki banyak jendela yang tinggi dan lebar, sehingga masyarakat sering menganggapnya sebagai pintu (lawang).</item>
+
+        <item>Istana resmi Kasunanan Surakarta yang terletak di Kota Surakarta, Jawa Tengah. Keraton ini didirikan oleh Susuhunan
+    Pakubuwana II pada tahun 1744 sebagai pengganti Istana/Keraton Kartasura yang porak-poranda akibat Geger Pecinan pada tahun1743.
+    Walaupun Kasunanan Surakarta Hadinigrat tersebut secara resmi telah menjadi bagian Negara Republik Indonesia sejak tahun 1945,
+    kompleks bangunan keraton ini masih berfungsi sebagai tempat tinggal Sri Sunan dan rumah tangga istananya yang masih menjalankan
+    tradisi kerajaan hingga saat ini. Keraton ini kini juga merupakan salah satu objek wisata utama di Kota Surakarta. Sebagian
+    kompleks keraton merupakan museum yang menyimpan berbagai koleksi milik kasunanan, termasuk berbagai pemberian dari raja-raja
+    Eropa, replika pusaka keraton, dan gamelan. Dari segi bangunannya, keraton ini merupakan contoh arsitektur istana Jawa
+    tradisional yang terbaik.</item>
+
+        <item>salah satu spot terbaik untuk menyaksikan sunrise dengan latar Gunung Merapi Merbabu. Dari tempat ini wisatawan juga
+    bisa melihat megahnya Candi Borobudur di pagi hari yang terkurung lautan kabut. Eksotisme pemandangan mentari yang terbit di
+    pagi hari selalu menjadi magnet yang memukau bagi para wisatawan. Karena itu tak heran jika tempat-tempat wisata yang menyajikan
+    pemandangan sunrise selalu ramai dikunjungi wisatawan. Sebut saja Gunung Bromo di Jawa Timur, Bukit Sikunir di Dieng Jawa Tengah,
+    dan Bukit Punthuk Setumbu di Magelang.</item>
+
+        <item>kawasan di pusat Jawa Tengah, yang memiliki ciri geologi, sejarah, dan pertanian yang khas. Dataran ini diapit oleh jajaran
+    perbukitan di sisi utara dan selatannya, yang berasal dari aktivitas vulkanik yang sama dan disebut Pegunungan Dieng. Pegunungan Dieng
+    sendiri secara geografis berada di antara kompleks Puncak Rogojembangan di sebelah barat dan pasangan Gunung Sindoro dan Gunung
+    Sumbing di sisi timurnya. Secara kasar dapat dikatakan bahwa wilayah Dataran Tinggi Dieng (DT Dieng) menempati kawasan berukuran
+    lebar (utara–selatan) 4-6 km dan panjang (barat–timur) 11 km.</item>
+
+        <item>Salah satu taman nasional yang masuk ke dalam wilayah administratif Kabupaten Jepara, Jawa Tengah. Sebagian besar kawasan
+    konservasi ini terdiri atas perairan dan sebagian kecil daratan yang terdiri atas gugusan pulau-pulau. Sesuai dengan kondisi
+    alamnya, jenis keanekaragaan yang dapat dijumpai di taman nasional ini juga kebanyakan dapat ditemukan di wilayah perairan.
+    Hal ini juga menyebabkan jumlah flora dan fauna yang hidup di daratan juga tidak terlalu banyak. Namun dapat dikatan jenis
+    flora di kawasan ini sebagian adalah spesies langka yang sudah hampir punah.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2019/09/18-1-by-@miftakhulmukhasin-@hengki_pamungkas-740x294.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2019/09/21-2-by-@The-Village-Purwokerto-740x740.jpg</item>
+        <item>https://gatra.cloud/foldershared/images/2019/anton/10-Oct/64.jpg</item>
+        <item>https://www.intiwhiz.com/images/planner/MUSEUM%20ANGKUT.jpg</item>
+        <item>https://primaberita.com/wp-content/uploads/2020/01/kota-lama-semarang.jpg</item>
+        <item>https://heritage.kai.id/media/cover%2013.jpg?1505617606123</item>
+        <item>https://bob.kemenpar.go.id/wp-content/uploads/2019/10/keraton-kasunanan-surakarta.jpg</item>
+        <item>https://explorewisata.com/wp-content/uploads/2017/12/punthuk-setumbu.jpg</item>
+        <item>https://ladypinem.com/wp-content/uploads/Alam-Dataran-Tinggi-Dieng-Telaga-Warna-1.jpg</item>
+        <item>https://rimbakita.com/wp-content/uploads/2019/08/taman-nasional-karimunjawa.jpg</item>
+    </string-array>
+    <string-array name="data_lat">
+        <item>-7.333797</item>
+        <item>-7.374473</item>
+        <item>-7.785680187341404</item>
+        <item>-7.878368860299753</item>
+        <item>-6.96784170634687</item>
+        <item>-6.983645704342558</item>
+        <item>-7.577520423326818</item>
+        <item>-7.608558374822703</item>
+        <item>-7.2142554278201665</item>
+        <item>-5.848357236836248</item>
+    </string-array>
+    <string-array name="data_lang">
+        <item>109.206959</item>
+        <item>109.240532</item>
+        <item>112.09776720926665</item>
+        <item>112.51978862611153</item>
+        <item>110.42787182610608</item>
+        <item>110.41076950103631</item>
+        <item>110.82748028120241</item>
+        <item>110.17812349654812</item>
+        <item>109.89957597665186</item>
+        <item>110.43957764242408</item>
+
+    </string-array>
+    <string name="title_activity_detail">ScrollingActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
