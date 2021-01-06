@@ -5,12 +5,13 @@ import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
 import com.rofi_18102032.praktikum10.db.DatabaseContract.QuoteColumns.Companion.TABLE_QUOTE
 
-internal class DatabaseHelper(context: Context) : SQLiteOpenHelper(context, DATABASE_NAME, null, DATABASE_VERSION) {
-
+internal class DatabaseHelper(context: Context) : SQLiteOpenHelper(context, DATABASE_NAME,
+    null, DATABASE_VERSION) {
     companion object {
         private const val DATABASE_NAME = "dbquoteapp"
-        private const val DATABASE_VERSION = 1
-        private const val SQL_CREATE_TABLE_QUOTE = "CREATE TABLE $TABLE_QUOTE" + " (${DatabaseContract.QuoteColumns._ID} INTEGER PRIMARY KEY AUTOINCREMENT,"+
+        private const val DATABASE_VERSION = 5
+        private const val SQL_CREATE_TABLE_QUOTE = "CREATE TABLE $TABLE_QUOTE" +
+                " (${DatabaseContract.QuoteColumns._ID} INTEGER PRIMARY KEY AUTOINCREMENT,"+
         " ${DatabaseContract.QuoteColumns.TITLE} TEXT NOT NULL," +
         " ${DatabaseContract.QuoteColumns.DESCRIPTION} TEXT NOT NULL," +
         " ${DatabaseContract.QuoteColumns.CATEGORY} TEXT NOT NULL," +

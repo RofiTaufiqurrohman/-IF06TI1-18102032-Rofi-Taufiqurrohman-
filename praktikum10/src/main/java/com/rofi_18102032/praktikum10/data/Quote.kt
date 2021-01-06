@@ -2,7 +2,6 @@ package com.rofi_18102032.praktikum10.data
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
-
 @Parcelize
 data class Quote(
     var id: Int = 0,
