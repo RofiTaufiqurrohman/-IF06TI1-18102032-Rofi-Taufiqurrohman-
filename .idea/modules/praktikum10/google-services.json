@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "246471562110",
+    "project_id": "fir-ppb2021-ab47a",
+    "storage_bucket": "fir-ppb2021-ab47a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246471562110:android:964e87de16c46cb695192f",
+        "android_client_info": {
+          "package_name": "com.rofi_18102032.praktikum10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246471562110-pu3fodjlv5ffd2obdp8piipst4os0d1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rofi_18102032.praktikum10",
+            "certificate_hash": "c638ec13585c112f1b69b8f8cf137d425e1d6174"
+          }
+        },
+        {
+          "client_id": "246471562110-tha15r2o5m4klsma5a28reeh15cunvam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7hwYjrNKMtuBdF3dxljhEGegsZq5SckI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246471562110-tha15r2o5m4klsma5a28reeh15cunvam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
