@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312730637917",
+    "project_id": "fir-ppb2021-7b2bf",
+    "storage_bucket": "fir-ppb2021-7b2bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312730637917:android:c4231eaaf29303b7429fb4",
+        "android_client_info": {
+          "package_name": "com.rofi_18102032.praktikum11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312730637917-0j1q95qb4lccfhsh5gcu59c5cfqem1u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwjV2s0ZG3MlbbHae3JbueQkpllTNtzTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312730637917-0j1q95qb4lccfhsh5gcu59c5cfqem1u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
