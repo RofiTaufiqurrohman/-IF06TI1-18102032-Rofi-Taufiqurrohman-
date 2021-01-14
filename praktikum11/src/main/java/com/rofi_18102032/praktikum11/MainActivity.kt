@@ -26,6 +26,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         auth = Firebase.auth
+        binding.btnEmailVerify.isVisible = false
+
         val gso = GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
             .requestIdToken(getString(R.string.default_web_client_id))
             .requestEmail()
@@ -109,8 +111,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             binding.tvUserId.text = email
             for (profile in it.providerData) {
                 val providerId = profile.providerId
-                if(providerId=="password" && emailVerified==true){
-                    binding.btnEmailVerify.isVisible = false
+                if(providerId=="password" && emailVerified== false){
+                    binding.btnEmailVerify.isVisible = true
                 }
                 if(providerId=="phone"){
                     binding.tvName.text = phoneNumber
