@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1000142963113",
+    "project_id": "hello-it-telkom-purwoker-321ef",
+    "storage_bucket": "hello-it-telkom-purwoker-321ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000142963113:android:8eb80795a7f283167044b8",
+        "android_client_info": {
+          "package_name": "com.rofi_18102032.praktikum11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000142963113-o8foetjslda8qni54cham67d0n36glft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rofi_18102032.praktikum11",
+            "certificate_hash": "c638ec13585c112f1b69b8f8cf137d425e1d6174"
+          }
+        },
+        {
+          "client_id": "1000142963113-323kdfi4mjpd75m9ikek7gfh2tbeb2e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB94R-DuHdhcP42wm4Hh_cszcEZUcoFYmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000142963113-323kdfi4mjpd75m9ikek7gfh2tbeb2e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
