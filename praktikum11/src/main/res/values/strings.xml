@@ -5,4 +5,5 @@
     <string name="category">Category</string>
     <string name="title">Title</string>
     <string name="delete">Delete</string>
+    <string name="submit">SAVE</string>
 </resources>
