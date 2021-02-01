@@ -1,12 +1,17 @@
 package com.rofi_18102032.praktikum14
 
 import android.app.Activity
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.rofi_18102032.praktikum14.databinding.ItemQuoteBinding
+import com.rofi_18102032.praktikum14.helper.EXTRA_POSITION
+import com.rofi_18102032.praktikum14.helper.EXTRA_QUOTE
+import com.rofi_18102032.praktikum14.helper.REQUEST_UPDATE
 import com.rofi_18102032.praktikum14.model.Quote
+import com.rofi_18102032.praktikum14.ui.QuoteAddUpdateActivity
 
 class QuoteAdapter(private val activity: Activity): RecyclerView.Adapter<QuoteAdapter.QuoteViewHolder>() {
     var listQuotes = ArrayList<Quote>()
@@ -29,6 +34,14 @@ class QuoteAdapter(private val activity: Activity): RecyclerView.Adapter<QuoteAd
             binding.tvOwner.text = quote.user_name+" ("+quote.class_name+")"
             binding.tvItemDate.text = quote.created_at
             binding.tvItemDescription.text = quote.quote_description
+            binding.cvItemQuote.setOnClickListener{
+                val intent = Intent(activity,
+                    QuoteAddUpdateActivity::class.java)
+                intent.putExtra(EXTRA_POSITION, position)
+                intent.putExtra(EXTRA_QUOTE, quote)
+                activity.startActivityForResult(intent, REQUEST_UPDATE)
+            }
+
         }
     }
 }
